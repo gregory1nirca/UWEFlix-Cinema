@@ -56,8 +56,7 @@ The possibilities  of the project are listed below:
   - Password: admin 
 - Command `py manage.py runserver` initiate the server.
 - Acces the `127.0.0.1:8000` url in browser to launch it.
-- To open admin page go to `127.0.0.1:8000/admin` use superuser credentials which were provided or created by you.
-- Once logged out from the user profile and clicked login, write in the searchbar the following url `http://127.0.0.1:8000/login/?next=/` to be able to access it again.
+- To open admin page go to `127.0.0.1:8000/admin` use superuser credentials which were provided by me or created by you.
 - The user profiles have the credentials listed below:
   - Test profile:
     - Username: test@test.com
@@ -70,4 +69,4 @@ The possibilities  of the project are listed below:
     - Password: Djangouser3.
     or create your own profile.
 
-- The `Demonstration.mp4` video file located in the main directory under UWEFlix folder can be watched to see the website functionality after extracting it from the zip file which have the same name.
+- The `Demonstration.mp4` video file located in the main directory under UWEFlix folder can be watched to see the website functionality. Firstly, it needs to be extracted from the zip file which have the same name.
