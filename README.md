@@ -70,3 +70,5 @@ The possibilities  of the project are listed below:
     or create your own profile.
 
 - The `Demonstration.mp4` video file located in the main directory under UWEFlix folder can be watched to see the website functionality. Firstly, it needs to be extracted from the zip file which have the same name.
+
+- UML diagrams are located in the zip file `Diagrams`
